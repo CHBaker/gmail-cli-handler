@@ -15,7 +15,9 @@ Interact with your gmail account over the command line for quick batch operation
  
 3. Ex: `$ python email_handler.py label='work' sender='myboss@msn.com'`
 
-4. Follow the command line prompst, the script will always ask before the final deletion of emails.
+4. The script will open your browser to verify the OAUTH2 with the client and your gmail account.
+
+5. Follow the command line prompst, the script will always ask before the final deletion of emails.
 
 ## NOTE
 The gmail API does **not allow instant and total deletion**
