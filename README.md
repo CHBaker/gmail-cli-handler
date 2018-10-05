@@ -18,9 +18,9 @@ Interact with your gmail account over the command line for quick batch operation
 4. Follow the command line prompst, the script will always ask before the final deletion of emails.
 
 ## NOTE
-The gmail API does not allow instant and total deletion
+The gmail API does **not allow instant and total deletion**
 
-This script just moves emails to the trash folder, which is cleared according to your settings
+This script **just moves emails to the trash folder**, which is cleared according to your settings
 
 To allow instant and total deletion, you must submit a form to register your api with google,
 since this can be a security issue/dangerous if not used properly.
