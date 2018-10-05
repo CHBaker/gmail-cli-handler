@@ -3,6 +3,8 @@ Interact with your gmail account over the command line for quick batch operation
 
 ## Setup
 
+ *takes roughly 10 minutes*
+
 1. Follow the [python quickstart gmail API Docs](https://developers.google.com/gmail/api/quickstart/python#step_1_turn_on_the) to create a project, enable the gmail api, and download the credentials.
 
 2. Rename the downloaded JSON file to credentials.json and copy it to the same directory as email_handler.py
